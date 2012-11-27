@@ -7,7 +7,7 @@ This is a Yii Framework widget used to embed a SpeedTest.net on your local websi
 Download the zip file or clone from GitHub (see below) and place the content in protected/extensions/YSpeedTestMini.
 You first need to fetch the mini.zip package from speedtest. There's a script which can do this for you. Just run
 ```bash
-protected/extensions/update-speedtest.sh
+protected/extensions/YSpeedTestMini/update-speedtest.sh
 ```
 This will require cURL and unzip.
 
